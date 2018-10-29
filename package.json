@@ -1,0 +1,11 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/roronya/async-await.git",
+  "author": "roronya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
